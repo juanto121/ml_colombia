@@ -8,10 +8,10 @@ Solución para el reto básico de admisiones propuesto en el taller de [colomb-i
 Run:
 
  ```
-     $>git clone repo
-     $>cd repo
-     $>python -r requirements.txt
-     $>python sklearn_logistic_regression.py 
+     git clone https://github.com/juanto121/ml_colombia.git
+     cd ml_colombia/soluciones_retos/basico/admisiones/
+     pip install -r requirements.txt
+     python sklearn_logistic_regression.py 
  ```
 
 #### Method
