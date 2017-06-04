@@ -17,5 +17,7 @@ Run:
 #### Method
 Using out of the box logistic regression with sklearn yields results scoring < 0.90 since its trying to use a line as a decision boundary. Using non linear terms, more specifically, quadradict terms gives better results.
 
+Details can be found in Andrew Ng's course, especially [in this video](https://www.youtube.com/watch?v=ef2OPmANLaM)
+
 #### Results
 ![Score : 0.95](results.PNG)
